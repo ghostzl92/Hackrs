@@ -1,2 +1,1 @@
-# Hackrs
-Codigos
+#privado
